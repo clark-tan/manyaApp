@@ -314,10 +314,13 @@ MIT
 @ionic-native/status-bar
 MIT
 
-@angular/core
+@angular/service-worker
 MIT
 
 loader
+
+@angular/core
+MIT
 
 zone.js
 MIT
